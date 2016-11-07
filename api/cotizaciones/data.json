@@ -1,0 +1,40 @@
+[
+    {
+        "moneda": "Dolar",
+        "simbolo": "USS",
+        "compra": "4320",
+        "venta": "4480"   
+    },
+     {
+        "moneda": "Real",
+        "simbolo": "RS",
+        "compra": "5422",
+        "venta": "1850"   
+    }
+    ,
+     {
+        "moneda": "Euro",
+        "simbolo": "EUR",
+        "compra": "6100",
+        "venta": "6300"   
+    }
+    ,
+     {
+        "moneda": "Peso",
+        "simbolo": "PS",
+        "compra": "360",
+        "venta": "550"  
+    },
+    {
+        "moneda": "Yen",
+        "simbolo": "YS",
+        "compra": "67",
+        "venta": "70"   
+    },
+    {
+        "moneda": "Peso Ur",
+        "simbolo": "PU",
+        "compra": "370",
+        "venta": "380"   
+    }
+]
